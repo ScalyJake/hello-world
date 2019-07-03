@@ -1,0 +1,7 @@
+# Ideas for projects
+
+- O Ring sizing tool:
+  - Have graphic showing O-Ring groove
+  - User input boxes for adjustment of groove dimensions
+  - Gives user a plausible range of O-Rings
+  - Searches catalogue for possible options
